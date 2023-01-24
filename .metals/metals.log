@@ -1,0 +1,8 @@
+2020.10.28 10:37:16 INFO  started: Metals version 0.9.4 in workspace 'D:\git\nunjucks-users-app' for client vscode.
+2020.10.28 10:37:18 INFO  time: initialize in 1.86s
+2020.10.28 10:37:20 WARN  no build tool detected in workspace 'D:\git\nunjucks-users-app'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:09:29 INFO  shutting down Metals
+2021.01.05 17:02:28 INFO  started: Metals version 0.9.4 in workspace 'D:\git\nunjucks-users-app' for client vscode.
+2021.01.05 17:02:30 INFO  time: initialize in 1.71s
+2021.01.05 17:02:32 WARN  no build tool detected in workspace 'D:\git\nunjucks-users-app'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.05 17:02:36 INFO  shutting down Metals
